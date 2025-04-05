@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Your-Font-Name&display=swap');
+
+.font-title {
+    font-family : 'Luxurious-Script', cursive;
+    font-size: 50px;
+
+}
+/* Background image setup */
+.restaurant-bg {
+    background-image: url("https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    width: 100vw;
+    overflow-y: auto;
+    position: relative;
+  }
+  
+  /* Header styling */
+  .header-text {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    color: white;
+    z-index: 10;
+  }
+  
+  .restaurant-title {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 4.7rem;
+    margin: 0;
+  }
+  
+  .restaurant-subtitle {
+    font-family: sans-serif;
+    font-size: 1.1rem;
+  }
+  
+  /* Menu box styling */
+  .menu-box {
+    position: absolute;
+    right: 5%;
+    bottom: 10%;
+    background-color: #fef5d5;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    width: 100%;
+    max-width: 400px;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  /* Buttons */
+  .custom-btn {
+    background-color: transparent;
+    border: 1px solid #444;
+    font-weight: 500;
+    font-family: sans-serif;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    width: 100%;
+    transition: all 0.3s ease;
+  }
+  
+  .custom-btn:hover {
+    background-color: #333;
+    color: white;
+  }
+  
+  /* Fade-in animation */
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 1s ease-out forwards;
+  }
+  
+  /* 📱 Media Queries */
+  @media (max-width: 768px) {
+    .header-text {
+      position: static;
+      text-align: center;
+      margin-top: 2rem;
+    }
+  
+    .restaurant-title {
+      font-size: 3.5rem;
+    }
+  
+    .menu-box {
+      position: static;
+      width: 90%;
+      margin: 2rem auto;
+    }
+  }
+  
