@@ -1,67 +1,46 @@
-# 🌐 CodSoft UI/UX Internship Project 🚀
+# 🌐 CodSoft UI/UX Internship - All Tasks
 
-Welcome to my **UI/UX Internship Project** completed as part of the CodSoft Internship program!  
-This project showcases my skills in front-end design and user experience using **React**, **Bootstrap**, and **CSS**.  
-The goal? Build a clean, responsive, and modern UI based on real-world use cases.
+Hey! I'm Sharleez, and this repo contains all my submissions for the **CodSoft UI/UX Internship**.
 
 ---
 
-## 🏢 About CodSoft Internship
+## 🧠 About the Internship
 
-**CodSoft** is a vibrant, diverse community that empowers students to grow through hands-on experience.  
-This internship helped me level up in:
-- 👨‍💻 Front-End Development
-- 🎨 UI/UX Design Principles
-- 🚀 Real-world Project Execution
-- 🧠 Problem Solving & Creative Thinking
+This internship helped me strengthen my UI/UX and frontend skills by working on real-world tasks.  
+I completed 3 UI/UX projects using **React**, **Bootstrap**, and **CSS**.
 
 ---
 
-## 🍽️ About This Project – *"The Restaurant Web UI"*
+## 🚀 My Projects
 
-I designed and built a fully responsive **restaurant website** using modern UI/UX practices.  
-The project includes:
-- 🖼️ A sleek landing page
-- 🧾 Menu section with categories (like appetizers, mains, desserts)
-- 📞 Contact section & footer
-- 🌙 Clean color palette, smooth layouts, and clear hierarchy
+### 🔹 Task 1: Restaurant Website UI
+- A clean & responsive restaurant website with menu section and smooth UI.
+- 👉 [View Folder](./Task-1_Restaurant-Website)
 
-It's a front-end-only project focused on design, layout, and responsiveness – perfect for showcasing user interface skills!
+### 🔹 Task 2: Portfolio Website
+- Personal portfolio with sections like About, Projects, and Contact.
+- 👉 [View Folder](./Task-2_Portfolio-Website)
 
----
-
-## 💻 Tech Stack
-
-- ⚛️ React.js  
-- 🎨 Bootstrap + Custom CSS  
-- 💡 JSX (React's HTML)
-- 🧰 VS Code + GitHub
+### 🔹 Task 3: Login Page UI
+- Simple and modern login/signup form UI with good UX practices.
+- 👉 [View Folder](./Task-3_Login-UI)
 
 ---
 
-## 🎯 Project Highlights
+## 📽️ Demo Videos
 
-- 🧩 Reusable, component-based architecture
-- 📱 Fully responsive across all screen sizes
-- ✨ Modern UI design and UX flows
-- 🧼 Clean, readable code and folder structure
+> Videos of all 3 tasks will be available on Notion soon.
 
 ---
 
-## 📽️ Demo Video
+## 💼 Tech Stack
 
-> 📍 A walkthrough video will be uploaded on Notion soon.  
-> (Link will be added here)
+- ⚛️ React.js
+- 🎨 Bootstrap
+- 🧼 Custom CSS
+- 💡 JSX
+- 🔧 VS Code + GitHub
 
 ---
 
-## 🛠️ Run Locally
-
-Clone and run it locally:
-
-```bash
-git clone https://github.com/SHARLEEZ25/CodSoft-Internship.git
-cd CodSoft-Internship
-npm install
-npm start
-http://localhost:3000/home
+Made with 💙 by [@SHARLEEZ25](https://github.com/SHARLEEZ25)
