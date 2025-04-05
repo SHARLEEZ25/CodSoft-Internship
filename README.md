@@ -17,6 +17,19 @@ This internship helped me level up in:
 
 ---
 
+## 🍽️ About This Project – *"The Restaurant Web UI"*
+
+I designed and built a fully responsive **restaurant website** using modern UI/UX practices.  
+The project includes:
+- 🖼️ A sleek landing page
+- 🧾 Menu section with categories (like appetizers, mains, desserts)
+- 📞 Contact section & footer
+- 🌙 Clean color palette, smooth layouts, and clear hierarchy
+
+It's a front-end-only project focused on design, layout, and responsiveness – perfect for showcasing user interface skills!
+
+---
+
 ## 💻 Tech Stack
 
 - ⚛️ React.js  
@@ -51,5 +64,4 @@ git clone https://github.com/SHARLEEZ25/CodSoft-Internship.git
 cd CodSoft-Internship
 npm install
 npm start
-
-Made with 💙 by @SHARLEEZ25
+http://localhost:3000/home
