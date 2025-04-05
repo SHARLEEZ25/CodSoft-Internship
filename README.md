@@ -15,7 +15,7 @@ I completed 3 UI/UX projects using **React**, **Bootstrap**, and **CSS**.
 
 ### 🔹 Task 1: Restaurant Website UI
 - A clean & responsive restaurant website with menu section and smooth UI.
-- 👉 [View Folder](./Task-1_Restaurant-Website)
+- 👉 [View Folder](https://github.com/SHARLEEZ25/CodSoft-Internship/commit/9e79f4c91e9d27daa79da015931a75b15b4b8ff8)
 
 ### 🔹 Task 2: Portfolio Website
 - Personal portfolio with sections like About, Projects, and Contact.
