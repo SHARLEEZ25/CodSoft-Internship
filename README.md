@@ -28,7 +28,7 @@ I completed 3 UI/UX projects using **React**, **Bootstrap**, and **CSS**.
 ---
 
 📌 All project walkthroughs (screen recordings) are available here:  
-🔗 [View Demo Videos on Notion](https://www.notion.so/CodSoft-Internship-UI-UX-1cd5ed5da8f1800c8cc7c6dffae1ff24?pvs=4)
+🔗 [View Demo Videos on Notion](https://www.notion.so/CodSoft-Internship-UI-UX-1cd5ed5da8f1800c8cc7c6dffae1ff24?pvs=4) 
 
 
 ---
