@@ -19,7 +19,7 @@ I completed 3 UI/UX projects using **React**, **Bootstrap**, and **CSS**.
 
 ### 🔹 Task 2: Portfolio Website
 - Personal portfolio with sections like About, Projects, and Contact.
-- 👉 [View Folder](./Task-2_Portfolio-Website)
+- 👉 [View Folder](https://github.com/SHARLEEZ25/CodSoft-Internship/commit/df509b004a93b228cd67549dbaca57db41af370d)
 
 ### 🔹 Task 3: Login Page UI
 - Simple and modern login/signup form UI with good UX practices.
